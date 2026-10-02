@@ -1,0 +1,62 @@
+{
+  "title": "State Minimum Wage Rates 2027 and Related Measures (startbusinessbystate.com)",
+  "description": "<p>State minimum wages now and on January 1, 2027, with rent, pay, cost, border and price-adjusted comparisons for all 50 states and DC.</p><p>This dataset tracks the minimum wage in every state and DC today (October 2026) and on January 1, 2027. It also compares those rates with rent, with what workers in low-wage jobs actually earn, with the extra payroll cost for a small employer, with neighboring states, and with local prices. It backs a six-page series on startbusinessbystate.com.</p><p>As of: October 2, 2026 (rates checked through this date; Nebraska 2027 rate confirmed October 2, 2026)</p><p>Main page: <a href=\"https://startbusinessbystate.com/minimum-wage-by-state-2027/\">https://startbusinessbystate.com/minimum-wage-by-state-2027/</a></p>",
+  "creators": [
+    {
+      "name": "StartBusinessByState",
+      "affiliation": "startbusinessbystate.com"
+    }
+  ],
+  "upload_type": "dataset",
+  "license": "cc-by-4.0",
+  "keywords": [
+    "minimum wage",
+    "2027",
+    "state minimum wage",
+    "fair market rent",
+    "OEWS",
+    "regional price parities",
+    "small business",
+    "labor costs"
+  ],
+  "version": "1.0.0",
+  "publication_date": "2026-10-02",
+  "related_identifiers": [
+    {
+      "identifier": "https://startbusinessbystate.com/minimum-wage-by-state-2027/",
+      "relation": "isSupplementTo",
+      "resource_type": "publication-other",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://startbusinessbystate.com/minimum-wage-vs-rent-by-state/",
+      "relation": "isSupplementTo",
+      "resource_type": "publication-other",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://startbusinessbystate.com/minimum-wage-2027-vs-what-workers-earn/",
+      "relation": "isSupplementTo",
+      "resource_type": "publication-other",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://startbusinessbystate.com/minimum-wage-increase-cost-small-business-2027/",
+      "relation": "isSupplementTo",
+      "resource_type": "publication-other",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://startbusinessbystate.com/minimum-wage-border-states-2027/",
+      "relation": "isSupplementTo",
+      "resource_type": "publication-other",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://startbusinessbystate.com/real-minimum-wage-by-state/",
+      "relation": "isSupplementTo",
+      "resource_type": "publication-other",
+      "scheme": "url"
+    }
+  ]
+}

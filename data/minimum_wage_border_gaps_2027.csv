@@ -1,0 +1,24 @@
+higher_minimum_state,lower_minimum_state,min_wage_higher_jan_2027,min_wage_lower_jan_2027,legal_gap_per_hour,legal_gap_full_time_per_year,fast_food_median_higher_may_2025,fast_food_median_lower_may_2025,fast_food_median_gap,cashier_median_higher_may_2025,cashier_median_lower_may_2025,cashier_median_gap,notes
+Washington,Idaho,17.73,7.25,10.48,21798,18.13,13.91,4.22,18.62,14.6,4.02,
+New Jersey,Pennsylvania,16.48,7.25,9.23,19198,16.42,13.74,2.68,16.63,14.05,2.58,
+Michigan,Indiana,15.0,7.25,7.75,16120,13.91,13.84,0.07,14.3,14.26,0.04,
+Virginia,North Carolina,13.75,7.25,6.5,13520,14.48,13.74,0.74,14.7,13.89,0.81,
+Virginia,Tennessee,13.75,7.25,6.5,13520,14.48,13.21,1.27,14.7,13.74,0.96,
+Minnesota,Wisconsin,11.87,7.25,4.62,9610,15.08,13.75,1.33,16.65,14.85,1.8,
+Minnesota,North Dakota,11.87,7.25,4.62,9610,15.08,14.46,0.62,16.65,15.12,1.53,
+Nebraska,Iowa,15.26,7.25,8.01,16661,13.94,13.65,0.29,14.54,13.93,0.61,
+Nebraska,Kansas,15.26,7.25,8.01,16661,13.94,13.26,0.68,14.54,13.85,0.69,
+Ohio,Pennsylvania,11.4,7.25,4.15,8632,13.67,13.74,-0.07,14.07,14.05,0.02,
+Ohio,Indiana,11.4,7.25,4.15,8632,13.67,13.84,-0.17,14.07,14.26,-0.19,
+Ohio,Kentucky,11.4,7.25,4.15,8632,13.67,13.04,0.63,14.07,13.75,0.32,
+Arizona,Utah,15.65,7.25,8.4,17472,16.46,13.78,2.68,16.64,15.19,1.45,Arizona 2027 rate expected (news reports)
+Colorado,Wyoming,15.71,7.25,8.46,17597,17.44,13.4,4.04,17.72,14.81,2.91,
+Colorado,Kansas,15.71,7.25,8.46,17597,17.44,13.26,4.18,17.72,13.85,3.87,
+Maine,New Hampshire,15.7,7.25,8.45,17576,16.69,15.19,1.5,16.79,16.27,0.52,
+Rhode Island,Massachusetts,17.0,15.0,2.0,4160,15.14,17.24,-2.1,16.76,17.08,-0.32,
+Connecticut,New York,17.48,17.0,0.48,998,17.01,16.95,0.06,17.09,17.07,0.02,New York 2027 rate pending; 17.00 is the NYC/Long Island/Westchester rate today (16.00 elsewhere)
+California,Nevada,17.4,12.0,5.4,11232,20.33,15.36,4.97,17.84,14.36,3.48,
+Florida,Georgia,15.0,7.25,7.75,16120,13.98,12.94,1.04,14.68,13.98,0.7,Florida 15.00 has no 2027 change
+Florida,Alabama,15.0,7.25,7.75,16120,13.98,11.4,2.58,14.68,13.58,1.1,Florida 15.00 has no 2027 change
+Missouri,Kansas,15.0,7.25,7.75,16120,14.61,13.26,1.35,14.67,13.85,0.82,Missouri 15.00 has no 2027 change
+Missouri,Iowa,15.0,7.25,7.75,16120,14.61,13.65,0.96,14.67,13.93,0.74,Missouri 15.00 has no 2027 change

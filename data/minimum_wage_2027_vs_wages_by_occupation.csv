@@ -1,0 +1,226 @@
+state,abbr,occupation,soc_code,jobs_may_2025,p10,p25,median,p75,minimum_wage_compared,rate_basis,rate_status,where_rate_falls,est_share_of_jobs_paid_less_pct
+Arizona,AZ,All occupations,00-0000,3239430,16.44,18.35,24.07,37.42,15.65,"Jan. 1, 2027 rate",expected,below 10th percentile,<10
+Arizona,AZ,Home health & personal care aides,31-1120,74540,14.9,16.14,17.51,18.57,15.65,"Jan. 1, 2027 rate",expected,at or above 10th percentile,19.1
+Arizona,AZ,Restaurant cooks,35-2014,30870,15.99,17.4,18.59,21.57,15.65,"Jan. 1, 2027 rate",expected,below 10th percentile,<10
+Arizona,AZ,Food preparation workers,35-2021,16590,15.05,16.45,17.67,18.83,15.65,"Jan. 1, 2027 rate",expected,at or above 10th percentile,16.4
+Arizona,AZ,Fast food & counter workers,35-3023,77210,14.79,15.08,16.46,17.23,15.65,"Jan. 1, 2027 rate",expected,at or above 25th percentile,35.3
+Arizona,AZ,Waiters & waitresses,35-3031,55950,14.7,16.27,21.13,30.3,15.65,"Jan. 1, 2027 rate",expected,at or above 10th percentile,19.1
+Arizona,AZ,Dishwashers,35-9021,10120,15.13,16.2,16.89,17.98,15.65,"Jan. 1, 2027 rate",expected,at or above 10th percentile,17.3
+Arizona,AZ,Restaurant hosts,35-9031,10710,14.77,15.0,16.7,18.36,15.65,"Jan. 1, 2027 rate",expected,at or above 25th percentile,34.6
+Arizona,AZ,Janitors & cleaners,37-2011,38290,15.12,16.51,17.42,18.97,15.65,"Jan. 1, 2027 rate",expected,at or above 10th percentile,15.7
+Arizona,AZ,Maids & housekeeping cleaners,37-2012,21180,15.07,16.46,17.13,18.64,15.65,"Jan. 1, 2027 rate",expected,at or above 10th percentile,16.3
+Arizona,AZ,Landscaping workers,37-3011,22450,17.08,17.92,18.71,21.69,15.65,"Jan. 1, 2027 rate",expected,below 10th percentile,<10
+Arizona,AZ,Hairdressers & cosmetologists,39-5012,7840,14.93,16.47,17.7,21.88,15.65,"Jan. 1, 2027 rate",expected,at or above 10th percentile,17.0
+Arizona,AZ,Childcare workers,39-9011,5530,14.82,15.65,16.88,18.43,15.65,"Jan. 1, 2027 rate",expected,at or above 25th percentile,25.0
+Arizona,AZ,Cashiers,41-2011,72570,14.92,15.19,16.64,17.5,15.65,"Jan. 1, 2027 rate",expected,at or above 25th percentile,32.9
+Arizona,AZ,Retail salespersons,41-2031,93920,14.82,15.62,17.18,18.29,15.65,"Jan. 1, 2027 rate",expected,at or above 25th percentile,25.5
+California,CA,All occupations,00-0000,18213700,17.28,20.0,28.0,47.06,17.4,"Jan. 1, 2027 rate",set,at or above 10th percentile,10.7
+California,CA,Home health & personal care aides,31-1120,970150,16.5,16.5,16.5,17.57,17.4,"Jan. 1, 2027 rate",set,at or above median,71.0
+California,CA,Restaurant cooks,35-2014,152250,17.84,18.55,21.58,22.76,17.4,"Jan. 1, 2027 rate",set,below 10th percentile,<10
+California,CA,Food preparation workers,35-2021,112750,16.92,17.79,18.92,21.42,17.4,"Jan. 1, 2027 rate",set,at or above 10th percentile,18.3
+California,CA,Fast food & counter workers,35-3023,449840,17.08,17.69,20.33,21.62,17.4,"Jan. 1, 2027 rate",set,at or above 10th percentile,17.9
+California,CA,Waiters & waitresses,35-3031,229970,16.5,16.78,17.35,19.17,17.4,"Jan. 1, 2027 rate",set,at or above median,50.7
+California,CA,Dishwashers,35-9021,74160,16.9,17.43,18.21,20.42,17.4,"Jan. 1, 2027 rate",set,at or above 10th percentile,24.2
+California,CA,Restaurant hosts,35-9031,41100,16.52,16.92,17.62,20.61,17.4,"Jan. 1, 2027 rate",set,at or above 25th percentile,42.1
+California,CA,Janitors & cleaners,37-2011,234240,17.12,17.71,19.75,23.2,17.4,"Jan. 1, 2027 rate",set,at or above 10th percentile,17.1
+California,CA,Maids & housekeeping cleaners,37-2012,103430,17.16,17.79,20.51,23.72,17.4,"Jan. 1, 2027 rate",set,at or above 10th percentile,15.7
+California,CA,Landscaping workers,37-3011,106180,17.68,18.47,21.9,24.27,17.4,"Jan. 1, 2027 rate",set,below 10th percentile,<10
+California,CA,Hairdressers & cosmetologists,39-5012,27080,17.0,17.6,18.59,23.57,17.4,"Jan. 1, 2027 rate",set,at or above 10th percentile,20.0
+California,CA,Childcare workers,39-9011,52780,16.99,18.08,19.24,22.27,17.4,"Jan. 1, 2027 rate",set,at or above 10th percentile,15.6
+California,CA,Cashiers,41-2011,336110,16.71,17.21,17.84,20.38,17.4,"Jan. 1, 2027 rate",set,at or above 25th percentile,32.5
+California,CA,Retail salespersons,41-2031,376460,16.94,17.48,18.48,21.86,17.4,"Jan. 1, 2027 rate",set,at or above 10th percentile,22.8
+Colorado,CO,All occupations,00-0000,2873900,17.48,21.0,28.75,44.82,15.71,"Jan. 1, 2027 rate",set,below 10th percentile,<10
+Colorado,CO,Home health & personal care aides,31-1120,44650,17.03,17.85,18.53,20.85,15.71,"Jan. 1, 2027 rate",set,below 10th percentile,<10
+Colorado,CO,Restaurant cooks,35-2014,30600,16.63,17.76,20.0,21.99,15.71,"Jan. 1, 2027 rate",set,below 10th percentile,<10
+Colorado,CO,Food preparation workers,35-2021,12080,14.81,16.68,18.73,21.51,15.71,"Jan. 1, 2027 rate",set,at or above 10th percentile,17.2
+Colorado,CO,Fast food & counter workers,35-3023,82010,14.92,16.3,17.44,18.13,15.71,"Jan. 1, 2027 rate",set,at or above 10th percentile,18.6
+Colorado,CO,Waiters & waitresses,35-3031,40680,14.81,15.68,21.57,31.91,15.71,"Jan. 1, 2027 rate",set,at or above 25th percentile,25.1
+Colorado,CO,Dishwashers,35-9021,8500,14.86,16.64,18.19,19.77,15.71,"Jan. 1, 2027 rate",set,at or above 10th percentile,17.2
+Colorado,CO,Restaurant hosts,35-9031,9490,14.81,15.12,17.47,20.96,15.71,"Jan. 1, 2027 rate",set,at or above 25th percentile,31.3
+Colorado,CO,Janitors & cleaners,37-2011,34220,16.42,17.73,18.56,22.11,15.71,"Jan. 1, 2027 rate",set,below 10th percentile,<10
+Colorado,CO,Maids & housekeeping cleaners,37-2012,19280,15.62,17.17,18.06,20.6,15.71,"Jan. 1, 2027 rate",set,at or above 10th percentile,10.9
+Colorado,CO,Landscaping workers,37-3011,21990,17.44,19.2,22.0,23.5,15.71,"Jan. 1, 2027 rate",set,below 10th percentile,<10
+Colorado,CO,Hairdressers & cosmetologists,39-5012,6820,15.15,16.99,18.12,28.71,15.71,"Jan. 1, 2027 rate",set,at or above 10th percentile,14.6
+Colorado,CO,Childcare workers,39-9011,13310,16.07,17.78,19.59,22.24,15.71,"Jan. 1, 2027 rate",set,below 10th percentile,<10
+Colorado,CO,Cashiers,41-2011,51670,15.14,16.71,17.72,18.97,15.71,"Jan. 1, 2027 rate",set,at or above 10th percentile,15.4
+Colorado,CO,Retail salespersons,41-2031,76660,15.45,17.18,18.25,21.38,15.71,"Jan. 1, 2027 rate",set,at or above 10th percentile,12.3
+Connecticut,CT,All occupations,00-0000,1696170,17.04,19.42,28.7,45.73,17.48,"Jan. 1, 2027 rate",set,at or above 10th percentile,12.8
+Connecticut,CT,Home health & personal care aides,31-1120,49510,16.35,17.07,18.75,21.27,17.48,"Jan. 1, 2027 rate",set,at or above 25th percentile,31.1
+Connecticut,CT,Restaurant cooks,35-2014,14830,17.05,17.82,18.98,22.09,17.48,"Jan. 1, 2027 rate",set,at or above 10th percentile,18.4
+Connecticut,CT,Food preparation workers,35-2021,12250,16.35,16.99,17.62,19.33,17.48,"Jan. 1, 2027 rate",set,at or above 25th percentile,44.4
+Connecticut,CT,Fast food & counter workers,35-3023,35720,16.35,16.58,17.01,17.52,17.48,"Jan. 1, 2027 rate",set,at or above median,73.0
+Connecticut,CT,Waiters & waitresses,35-3031,22370,16.35,16.94,18.16,23.2,17.48,"Jan. 1, 2027 rate",set,at or above 25th percentile,36.1
+Connecticut,CT,Dishwashers,35-9021,7340,16.35,16.6,17.09,17.88,17.48,"Jan. 1, 2027 rate",set,at or above median,62.3
+Connecticut,CT,Restaurant hosts,35-9031,3670,16.35,16.35,16.45,17.07,17.48,"Jan. 1, 2027 rate",set,at or above median,76.5
+Connecticut,CT,Janitors & cleaners,37-2011,28740,16.42,17.05,18.25,22.67,17.48,"Jan. 1, 2027 rate",set,at or above 25th percentile,34.0
+Connecticut,CT,Maids & housekeeping cleaners,37-2012,6680,16.42,16.93,17.39,18.26,17.48,"Jan. 1, 2027 rate",set,at or above median,52.6
+Connecticut,CT,Landscaping workers,37-3011,13490,17.23,18.05,21.99,23.39,17.48,"Jan. 1, 2027 rate",set,at or above 10th percentile,14.6
+Connecticut,CT,Hairdressers & cosmetologists,39-5012,4090,16.35,16.49,21.45,28.75,17.48,"Jan. 1, 2027 rate",set,at or above 25th percentile,30.0
+Connecticut,CT,Childcare workers,39-9011,12020,16.8,17.18,17.63,18.45,17.48,"Jan. 1, 2027 rate",set,at or above 25th percentile,41.7
+Connecticut,CT,Cashiers,41-2011,30920,16.35,16.65,17.09,17.69,17.48,"Jan. 1, 2027 rate",set,at or above median,66.2
+Connecticut,CT,Retail salespersons,41-2031,42410,16.42,16.84,17.54,19.02,17.48,"Jan. 1, 2027 rate",set,at or above 25th percentile,47.9
+Florida,FL,All occupations,00-0000,9929860,14.43,17.45,23.02,36.26,15.0,"current rate, no 2027 change",set,at or above 10th percentile,12.8
+Florida,FL,Home health & personal care aides,31-1120,90170,14.74,15.16,16.25,17.25,15.0,"current rate, no 2027 change",set,at or above 10th percentile,19.3
+Florida,FL,Restaurant cooks,35-2014,124040,14.28,16.85,17.8,20.6,15.0,"current rate, no 2027 change",set,at or above 10th percentile,14.2
+Florida,FL,Food preparation workers,35-2021,73100,13.55,14.63,17.27,18.0,15.0,"current rate, no 2027 change",set,at or above 25th percentile,28.5
+Florida,FL,Fast food & counter workers,35-3023,235400,13.25,13.47,13.98,15.97,15.0,"current rate, no 2027 change",set,at or above median,62.8
+Florida,FL,Waiters & waitresses,35-3031,207180,13.09,13.73,17.38,22.88,15.0,"current rate, no 2027 change",set,at or above 25th percentile,33.7
+Florida,FL,Dishwashers,35-9021,40480,13.58,14.0,15.02,16.9,15.0,"current rate, no 2027 change",set,at or above 25th percentile,49.5
+Florida,FL,Restaurant hosts,35-9031,37100,13.34,13.72,14.33,17.16,15.0,"current rate, no 2027 change",set,at or above median,55.9
+Florida,FL,Janitors & cleaners,37-2011,131900,13.85,14.45,16.58,17.86,15.0,"current rate, no 2027 change",set,at or above 25th percentile,31.5
+Florida,FL,Maids & housekeeping cleaners,37-2012,79550,13.87,14.55,16.28,17.82,15.0,"current rate, no 2027 change",set,at or above 25th percentile,31.5
+Florida,FL,Landscaping workers,37-3011,86040,14.74,17.03,17.84,20.99,15.0,"current rate, no 2027 change",set,at or above 10th percentile,11.7
+Florida,FL,Hairdressers & cosmetologists,39-5012,23530,13.2,13.63,14.2,16.87,15.0,"current rate, no 2027 change",set,at or above median,57.5
+Florida,FL,Childcare workers,39-9011,21760,13.44,14.56,16.45,17.84,15.0,"current rate, no 2027 change",set,at or above 25th percentile,30.8
+Florida,FL,Cashiers,41-2011,201370,13.31,13.77,14.68,16.75,15.0,"current rate, no 2027 change",set,at or above median,53.9
+Florida,FL,Retail salespersons,41-2031,333460,13.62,14.16,16.35,17.82,15.0,"current rate, no 2027 change",set,at or above 25th percentile,34.6
+Maine,ME,All occupations,00-0000,640610,16.89,19.29,24.73,36.65,15.7,"Jan. 1, 2027 rate",set,below 10th percentile,<10
+Maine,ME,Home health & personal care aides,31-1120,18630,16.89,17.59,18.55,20.99,15.7,"Jan. 1, 2027 rate",set,below 10th percentile,<10
+Maine,ME,Restaurant cooks,35-2014,5130,18.29,19.13,21.78,22.94,15.7,"Jan. 1, 2027 rate",set,below 10th percentile,<10
+Maine,ME,Food preparation workers,35-2021,4560,14.98,16.23,17.32,18.78,15.7,"Jan. 1, 2027 rate",set,at or above 10th percentile,18.6
+Maine,ME,Fast food & counter workers,35-3023,17250,14.78,15.38,16.69,17.55,15.7,"Jan. 1, 2027 rate",set,at or above 25th percentile,31.1
+Maine,ME,Waiters & waitresses,35-3031,9090,14.66,15.8,20.85,30.25,15.7,"Jan. 1, 2027 rate",set,at or above 10th percentile,23.7
+Maine,ME,Dishwashers,35-9021,2940,14.71,15.58,17.13,18.32,15.7,"Jan. 1, 2027 rate",set,at or above 25th percentile,26.9
+Maine,ME,Restaurant hosts,35-9031,1460,14.83,16.34,17.69,20.12,15.7,"Jan. 1, 2027 rate",set,at or above 10th percentile,18.6
+Maine,ME,Janitors & cleaners,37-2011,9180,16.6,17.45,18.72,21.92,15.7,"Jan. 1, 2027 rate",set,below 10th percentile,<10
+Maine,ME,Maids & housekeeping cleaners,37-2012,4960,16.6,17.47,18.09,19.95,15.7,"Jan. 1, 2027 rate",set,below 10th percentile,<10
+Maine,ME,Landscaping workers,37-3011,6410,16.73,18.3,22.1,23.25,15.7,"Jan. 1, 2027 rate",set,below 10th percentile,<10
+Maine,ME,Hairdressers & cosmetologists,39-5012,970,14.73,17.79,21.16,29.74,15.7,"Jan. 1, 2027 rate",set,at or above 10th percentile,14.8
+Maine,ME,Childcare workers,39-9011,4990,15.0,16.72,17.47,18.09,15.7,"Jan. 1, 2027 rate",set,at or above 10th percentile,16.1
+Maine,ME,Cashiers,41-2011,14240,14.79,15.14,16.79,17.7,15.7,"Jan. 1, 2027 rate",set,at or above 25th percentile,33.5
+Maine,ME,Retail salespersons,41-2031,18450,15.05,16.69,17.61,20.8,15.7,"Jan. 1, 2027 rate",set,at or above 10th percentile,15.9
+Michigan,MI,All occupations,00-0000,4403730,14.56,17.82,23.69,37.46,15.0,"Jan. 1, 2027 rate",set,at or above 10th percentile,12.0
+Michigan,MI,Home health & personal care aides,31-1120,95020,13.4,14.69,16.83,17.81,15.0,"Jan. 1, 2027 rate",set,at or above 25th percentile,28.6
+Michigan,MI,Restaurant cooks,35-2014,39100,14.22,16.72,17.78,20.6,15.0,"Jan. 1, 2027 rate",set,at or above 10th percentile,14.7
+Michigan,MI,Food preparation workers,35-2021,17380,12.76,13.31,14.99,17.27,15.0,"Jan. 1, 2027 rate",set,at or above median,50.1
+Michigan,MI,Fast food & counter workers,35-3023,103130,12.48,13.26,13.91,15.75,15.0,"Jan. 1, 2027 rate",set,at or above median,64.8
+Michigan,MI,Waiters & waitresses,35-3031,65090,12.48,14.11,18.16,28.15,15.0,"Jan. 1, 2027 rate",set,at or above 25th percentile,30.5
+Michigan,MI,Dishwashers,35-9021,11510,12.48,13.5,15.05,17.31,15.0,"Jan. 1, 2027 rate",set,at or above 25th percentile,49.2
+Michigan,MI,Restaurant hosts,35-9031,12620,12.48,12.95,13.92,16.42,15.0,"Jan. 1, 2027 rate",set,at or above median,60.8
+Michigan,MI,Janitors & cleaners,37-2011,65790,14.11,15.0,17.33,18.77,15.0,"Jan. 1, 2027 rate",set,at or above 25th percentile,25.0
+Michigan,MI,Maids & housekeeping cleaners,37-2012,18690,13.82,14.48,16.66,17.55,15.0,"Jan. 1, 2027 rate",set,at or above 25th percentile,31.0
+Michigan,MI,Landscaping workers,37-3011,32330,14.41,17.18,18.33,22.25,15.0,"Jan. 1, 2027 rate",set,at or above 10th percentile,13.2
+Michigan,MI,Hairdressers & cosmetologists,39-5012,8970,12.48,13.88,16.74,29.13,15.0,"Jan. 1, 2027 rate",set,at or above 25th percentile,34.8
+Michigan,MI,Childcare workers,39-9011,14010,13.08,13.87,14.89,17.31,15.0,"Jan. 1, 2027 rate",set,at or above median,51.1
+Michigan,MI,Cashiers,41-2011,92930,12.82,13.5,14.3,16.48,15.0,"Jan. 1, 2027 rate",set,at or above median,58.0
+Michigan,MI,Retail salespersons,41-2031,111010,13.35,14.09,16.65,18.15,15.0,"Jan. 1, 2027 rate",set,at or above 25th percentile,33.9
+Minnesota,MN,All occupations,00-0000,2949820,16.12,19.08,27.36,39.67,11.87,"Jan. 1, 2027 rate",set,below 10th percentile,<10
+Minnesota,MN,Home health & personal care aides,31-1120,128680,15.87,17.6,18.45,21.07,11.87,"Jan. 1, 2027 rate",set,below 10th percentile,<10
+Minnesota,MN,Restaurant cooks,35-2014,26080,15.04,17.32,18.55,21.81,11.87,"Jan. 1, 2027 rate",set,below 10th percentile,<10
+Minnesota,MN,Food preparation workers,35-2021,24620,14.01,14.69,16.76,18.39,11.87,"Jan. 1, 2027 rate",set,below 10th percentile,<10
+Minnesota,MN,Fast food & counter workers,35-3023,58970,13.55,14.05,15.08,17.14,11.87,"Jan. 1, 2027 rate",set,below 10th percentile,<10
+Minnesota,MN,Waiters & waitresses,35-3031,37630,11.13,11.24,12.25,15.36,11.87,"Jan. 1, 2027 rate",set,at or above 25th percentile,40.6
+Minnesota,MN,Dishwashers,35-9021,8710,12.25,14.05,16.38,17.39,11.87,"Jan. 1, 2027 rate",set,below 10th percentile,<10
+Minnesota,MN,Restaurant hosts,35-9031,7150,11.54,13.36,14.52,16.82,11.87,"Jan. 1, 2027 rate",set,at or above 10th percentile,12.7
+Minnesota,MN,Janitors & cleaners,37-2011,42300,14.79,17.33,19.04,22.27,11.87,"Jan. 1, 2027 rate",set,below 10th percentile,<10
+Minnesota,MN,Maids & housekeeping cleaners,37-2012,14890,14.41,16.77,18.01,20.06,11.87,"Jan. 1, 2027 rate",set,below 10th percentile,<10
+Minnesota,MN,Landscaping workers,37-3011,17610,14.67,17.77,22.41,24.19,11.87,"Jan. 1, 2027 rate",set,below 10th percentile,<10
+Minnesota,MN,Hairdressers & cosmetologists,39-5012,5320,11.34,16.65,18.83,28.51,11.87,"Jan. 1, 2027 rate",set,at or above 10th percentile,11.5
+Minnesota,MN,Childcare workers,39-9011,11570,13.73,14.59,17.08,18.5,11.87,"Jan. 1, 2027 rate",set,below 10th percentile,<10
+Minnesota,MN,Cashiers,41-2011,58190,13.4,14.31,16.65,17.64,11.87,"Jan. 1, 2027 rate",set,below 10th percentile,<10
+Minnesota,MN,Retail salespersons,41-2031,74840,13.8,15.85,17.49,18.58,11.87,"Jan. 1, 2027 rate",set,below 10th percentile,<10
+Missouri,MO,All occupations,00-0000,2936050,14.32,17.39,22.98,35.7,15.0,"current rate, no 2027 change",set,at or above 10th percentile,13.3
+Missouri,MO,Home health & personal care aides,31-1120,94810,13.75,13.75,15.9,17.82,15.0,"current rate, no 2027 change",set,at or above 25th percentile,39.5
+Missouri,MO,Restaurant cooks,35-2014,25990,13.89,14.8,17.76,20.54,15.0,"current rate, no 2027 change",set,at or above 25th percentile,26.7
+Missouri,MO,Food preparation workers,35-2021,13650,13.75,14.05,15.15,17.81,15.0,"current rate, no 2027 change",set,at or above 25th percentile,46.6
+Missouri,MO,Fast food & counter workers,35-3023,29360,13.75,13.89,14.61,16.46,15.0,"current rate, no 2027 change",set,at or above median,55.3
+Missouri,MO,Waiters & waitresses,35-3031,41640,13.75,13.75,14.13,19.3,15.0,"current rate, no 2027 change",set,at or above median,54.2
+Missouri,MO,Dishwashers,35-9021,7200,13.75,14.37,15.46,17.32,15.0,"current rate, no 2027 change",set,at or above 25th percentile,39.4
+Missouri,MO,Restaurant hosts,35-9031,8510,13.75,13.75,14.0,16.59,15.0,"current rate, no 2027 change",set,at or above median,59.7
+Missouri,MO,Janitors & cleaners,37-2011,41070,14.11,14.96,17.26,18.88,15.0,"current rate, no 2027 change",set,at or above 25th percentile,25.4
+Missouri,MO,Maids & housekeeping cleaners,37-2012,15360,13.75,14.47,16.19,17.63,15.0,"current rate, no 2027 change",set,at or above 25th percentile,32.7
+Missouri,MO,Landscaping workers,37-3011,18310,14.71,17.22,18.52,21.78,15.0,"current rate, no 2027 change",set,at or above 10th percentile,11.7
+Missouri,MO,Hairdressers & cosmetologists,39-5012,5430,13.75,14.11,14.78,18.33,15.0,"current rate, no 2027 change",set,at or above median,51.5
+Missouri,MO,Childcare workers,39-9011,12430,13.75,13.94,14.8,17.15,15.0,"current rate, no 2027 change",set,at or above median,52.1
+Missouri,MO,Cashiers,41-2011,69430,13.75,13.93,14.67,16.54,15.0,"current rate, no 2027 change",set,at or above median,54.4
+Missouri,MO,Retail salespersons,41-2031,67140,13.75,14.35,16.09,17.76,15.0,"current rate, no 2027 change",set,at or above 25th percentile,34.3
+Nebraska,NE,All occupations,00-0000,1024370,14.48,17.97,23.55,35.5,15.26,"Jan. 1, 2027 rate",set,at or above 10th percentile,13.4
+Nebraska,NE,Home health & personal care aides,31-1120,13660,14.74,16.47,17.38,18.54,15.26,"Jan. 1, 2027 rate",set,at or above 10th percentile,14.5
+Nebraska,NE,Restaurant cooks,35-2014,4750,13.79,16.25,17.81,20.44,15.26,"Jan. 1, 2027 rate",set,at or above 10th percentile,19.0
+Nebraska,NE,Food preparation workers,35-2021,6890,13.82,14.36,16.93,18.0,15.26,"Jan. 1, 2027 rate",set,at or above 25th percentile,33.8
+Nebraska,NE,Fast food & counter workers,35-3023,30060,13.5,13.56,13.94,16.54,15.26,"Jan. 1, 2027 rate",set,at or above median,62.7
+Nebraska,NE,Waiters & waitresses,35-3031,13310,13.5,13.63,16.24,22.46,15.26,"Jan. 1, 2027 rate",set,at or above 25th percentile,40.6
+Nebraska,NE,Dishwashers,35-9021,2170,13.5,13.5,14.3,17.25,15.26,"Jan. 1, 2027 rate",set,at or above median,58.1
+Nebraska,NE,Restaurant hosts,35-9031,2830,13.5,13.5,13.68,16.81,15.26,"Jan. 1, 2027 rate",set,at or above median,62.6
+Nebraska,NE,Janitors & cleaners,37-2011,12860,14.39,15.0,17.26,20.31,15.26,"Jan. 1, 2027 rate",set,at or above 25th percentile,27.9
+Nebraska,NE,Maids & housekeeping cleaners,37-2012,6250,13.62,14.5,16.43,17.38,15.26,"Jan. 1, 2027 rate",set,at or above 25th percentile,34.8
+Nebraska,NE,Landscaping workers,37-3011,7280,14.26,17.61,18.82,22.84,15.26,"Jan. 1, 2027 rate",set,at or above 10th percentile,14.5
+Nebraska,NE,Hairdressers & cosmetologists,39-5012,1890,13.5,14.6,16.5,23.98,15.26,"Jan. 1, 2027 rate",set,at or above 25th percentile,33.7
+Nebraska,NE,Childcare workers,39-9011,9390,13.52,14.01,14.78,16.97,15.26,"Jan. 1, 2027 rate",set,at or above median,55.5
+Nebraska,NE,Cashiers,41-2011,20650,13.5,14.01,14.54,16.65,15.26,"Jan. 1, 2027 rate",set,at or above median,58.5
+Nebraska,NE,Retail salespersons,41-2031,22780,13.5,13.92,15.32,17.72,15.26,"Jan. 1, 2027 rate",set,at or above 25th percentile,48.9
+New Jersey,NJ,All occupations,00-0000,4285720,16.56,18.94,28.16,46.5,16.48,"Jan. 1, 2027 rate",set,below 10th percentile,<10
+New Jersey,NJ,Home health & personal care aides,31-1120,117080,15.49,16.67,17.83,21.43,16.48,"Jan. 1, 2027 rate",set,at or above 10th percentile,22.6
+New Jersey,NJ,Restaurant cooks,35-2014,28800,15.49,17.25,18.49,21.92,16.48,"Jan. 1, 2027 rate",set,at or above 10th percentile,18.4
+New Jersey,NJ,Food preparation workers,35-2021,24730,15.49,16.12,17.09,18.5,16.48,"Jan. 1, 2027 rate",set,at or above 25th percentile,34.3
+New Jersey,NJ,Fast food & counter workers,35-3023,93730,15.49,15.49,16.42,17.38,16.48,"Jan. 1, 2027 rate",set,at or above median,51.6
+New Jersey,NJ,Waiters & waitresses,35-3031,55800,15.49,17.17,21.62,27.12,16.48,"Jan. 1, 2027 rate",set,at or above 10th percentile,18.8
+New Jersey,NJ,Dishwashers,35-9021,7450,15.49,15.77,17.26,18.1,16.48,"Jan. 1, 2027 rate",set,at or above 25th percentile,36.9
+New Jersey,NJ,Restaurant hosts,35-9031,9420,15.49,15.49,16.37,17.55,16.48,"Jan. 1, 2027 rate",set,at or above median,52.3
+New Jersey,NJ,Janitors & cleaners,37-2011,67660,15.54,16.92,18.09,21.3,16.48,"Jan. 1, 2027 rate",set,at or above 10th percentile,20.2
+New Jersey,NJ,Maids & housekeeping cleaners,37-2012,18360,15.75,16.85,18.26,20.42,16.48,"Jan. 1, 2027 rate",set,at or above 10th percentile,20.0
+New Jersey,NJ,Landscaping workers,37-3011,30470,17.05,17.78,19.88,22.75,16.48,"Jan. 1, 2027 rate",set,below 10th percentile,<10
+New Jersey,NJ,Hairdressers & cosmetologists,39-5012,15500,15.49,16.17,17.38,25.76,16.48,"Jan. 1, 2027 rate",set,at or above 25th percentile,31.4
+New Jersey,NJ,Childcare workers,39-9011,25070,15.49,16.43,17.49,18.46,16.48,"Jan. 1, 2027 rate",set,at or above 25th percentile,26.2
+New Jersey,NJ,Cashiers,41-2011,107680,15.49,15.69,16.63,17.88,16.48,"Jan. 1, 2027 rate",set,at or above 25th percentile,46.0
+New Jersey,NJ,Retail salespersons,41-2031,72530,15.49,16.46,17.56,21.35,16.48,"Jan. 1, 2027 rate",set,at or above 25th percentile,25.5
+Ohio,OH,All occupations,00-0000,5550180,14.04,17.7,23.74,37.3,11.4,"Jan. 1, 2027 rate",set,below 10th percentile,<10
+Ohio,OH,Home health & personal care aides,31-1120,106940,13.64,14.49,16.57,17.64,11.4,"Jan. 1, 2027 rate",set,below 10th percentile,<10
+Ohio,OH,Restaurant cooks,35-2014,46910,13.27,14.19,17.09,18.23,11.4,"Jan. 1, 2027 rate",set,below 10th percentile,<10
+Ohio,OH,Food preparation workers,35-2021,19480,12.81,13.91,16.6,18.3,11.4,"Jan. 1, 2027 rate",set,below 10th percentile,<10
+Ohio,OH,Fast food & counter workers,35-3023,163560,11.16,12.89,13.67,14.39,11.4,"Jan. 1, 2027 rate",set,at or above 10th percentile,12.1
+Ohio,OH,Waiters & waitresses,35-3031,77250,11.45,13.94,17.65,23.16,11.4,"Jan. 1, 2027 rate",set,below 10th percentile,<10
+Ohio,OH,Dishwashers,35-9021,14380,11.13,12.72,14.19,16.57,11.4,"Jan. 1, 2027 rate",set,at or above 10th percentile,12.5
+Ohio,OH,Restaurant hosts,35-9031,15480,11.0,11.68,13.25,16.01,11.4,"Jan. 1, 2027 rate",set,at or above 10th percentile,18.8
+Ohio,OH,Janitors & cleaners,37-2011,72540,13.68,14.8,17.26,20.56,11.4,"Jan. 1, 2027 rate",set,below 10th percentile,<10
+Ohio,OH,Maids & housekeeping cleaners,37-2012,28930,13.29,14.0,15.47,17.13,11.4,"Jan. 1, 2027 rate",set,below 10th percentile,<10
+Ohio,OH,Landscaping workers,37-3011,34420,13.79,16.99,18.38,21.94,11.4,"Jan. 1, 2027 rate",set,below 10th percentile,<10
+Ohio,OH,Hairdressers & cosmetologists,39-5012,12890,11.31,13.47,17.43,27.81,11.4,"Jan. 1, 2027 rate",set,at or above 10th percentile,10.6
+Ohio,OH,Childcare workers,39-9011,11300,11.44,13.24,14.27,17.52,11.4,"Jan. 1, 2027 rate",set,below 10th percentile,<10
+Ohio,OH,Cashiers,41-2011,103020,11.35,12.95,14.07,16.1,11.4,"Jan. 1, 2027 rate",set,at or above 10th percentile,10.5
+Ohio,OH,Retail salespersons,41-2031,137370,11.64,13.46,14.81,17.61,11.4,"Jan. 1, 2027 rate",set,below 10th percentile,<10
+Rhode Island,RI,All occupations,00-0000,501340,15.61,19.12,27.3,40.96,17.0,"Jan. 1, 2027 rate",set,at or above 10th percentile,15.9
+Rhode Island,RI,Home health & personal care aides,31-1120,7490,15.32,18.5,21.0,21.96,17.0,"Jan. 1, 2027 rate",set,at or above 10th percentile,17.9
+Rhode Island,RI,Restaurant cooks,35-2014,6950,15.31,16.64,17.55,21.95,17.0,"Jan. 1, 2027 rate",set,at or above 25th percentile,34.9
+Rhode Island,RI,Food preparation workers,35-2021,2830,15.0,15.48,17.06,20.21,17.0,"Jan. 1, 2027 rate",set,at or above 25th percentile,49.1
+Rhode Island,RI,Fast food & counter workers,35-3023,13310,15.0,15.0,15.14,16.95,17.0,"Jan. 1, 2027 rate",set,at or above median,76.2
+Rhode Island,RI,Waiters & waitresses,35-3031,10160,15.0,15.0,17.03,24.44,17.0,"Jan. 1, 2027 rate",set,at or above 25th percentile,49.6
+Rhode Island,RI,Dishwashers,35-9021,2790,15.05,15.16,16.33,17.48,17.0,"Jan. 1, 2027 rate",set,at or above median,64.6
+Rhode Island,RI,Restaurant hosts,35-9031,,15.0,15.02,15.1,17.22,17.0,"Jan. 1, 2027 rate",set,at or above median,72.4
+Rhode Island,RI,Janitors & cleaners,37-2011,7270,15.11,15.98,17.94,22.23,17.0,"Jan. 1, 2027 rate",set,at or above 25th percentile,38.0
+Rhode Island,RI,Maids & housekeeping cleaners,37-2012,2710,16.58,17.4,18.05,19.51,17.0,"Jan. 1, 2027 rate",set,at or above 10th percentile,17.7
+Rhode Island,RI,Landscaping workers,37-3011,4040,17.59,19.0,21.51,22.36,17.0,"Jan. 1, 2027 rate",set,below 10th percentile,<10
+Rhode Island,RI,Hairdressers & cosmetologists,39-5012,1470,15.0,15.0,15.0,15.84,17.0,"Jan. 1, 2027 rate",set,at or above median,81.4
+Rhode Island,RI,Childcare workers,39-9011,1800,15.1,15.35,17.76,18.41,17.0,"Jan. 1, 2027 rate",set,at or above 25th percentile,42.1
+Rhode Island,RI,Cashiers,41-2011,9260,15.0,15.13,16.76,17.58,17.0,"Jan. 1, 2027 rate",set,at or above median,57.3
+Rhode Island,RI,Retail salespersons,41-2031,12830,15.0,15.16,16.76,18.14,17.0,"Jan. 1, 2027 rate",set,at or above median,54.3
+Virginia,VA,All occupations,00-0000,4109320,14.68,18.14,26.78,42.99,13.75,"Jan. 1, 2027 rate",set,below 10th percentile,<10
+Virginia,VA,Home health & personal care aides,31-1120,70070,12.97,13.66,14.57,17.24,13.75,"Jan. 1, 2027 rate",set,at or above 25th percentile,27.5
+Virginia,VA,Restaurant cooks,35-2014,40310,14.11,16.0,17.67,20.67,13.75,"Jan. 1, 2027 rate",set,below 10th percentile,<10
+Virginia,VA,Food preparation workers,35-2021,16340,13.68,14.88,16.78,17.94,13.75,"Jan. 1, 2027 rate",set,at or above 10th percentile,10.9
+Virginia,VA,Fast food & counter workers,35-3023,104460,13.04,13.57,14.48,16.66,13.75,"Jan. 1, 2027 rate",set,at or above 25th percentile,29.9
+Virginia,VA,Waiters & waitresses,35-3031,59370,13.59,15.75,21.52,27.13,13.75,"Jan. 1, 2027 rate",set,at or above 10th percentile,11.1
+Virginia,VA,Dishwashers,35-9021,12520,13.12,13.82,15.93,17.58,13.75,"Jan. 1, 2027 rate",set,at or above 10th percentile,23.5
+Virginia,VA,Restaurant hosts,35-9031,10890,13.09,13.65,14.66,17.04,13.75,"Jan. 1, 2027 rate",set,at or above 25th percentile,27.5
+Virginia,VA,Janitors & cleaners,37-2011,65970,13.6,14.44,16.91,18.62,13.75,"Jan. 1, 2027 rate",set,at or above 10th percentile,12.7
+Virginia,VA,Maids & housekeeping cleaners,37-2012,23120,13.56,14.27,16.26,17.65,13.75,"Jan. 1, 2027 rate",set,at or above 10th percentile,14.0
+Virginia,VA,Landscaping workers,37-3011,25180,15.0,17.1,18.46,21.46,13.75,"Jan. 1, 2027 rate",set,below 10th percentile,<10
+Virginia,VA,Hairdressers & cosmetologists,39-5012,10200,nan,nan,nan,nan,13.75,"Jan. 1, 2027 rate",set,wage data suppressed,nan
+Virginia,VA,Childcare workers,39-9011,13930,13.53,14.2,16.51,17.88,13.75,"Jan. 1, 2027 rate",set,at or above 10th percentile,14.9
+Virginia,VA,Cashiers,41-2011,83890,13.0,13.68,14.7,16.83,13.75,"Jan. 1, 2027 rate",set,at or above 25th percentile,26.7
+Virginia,VA,Retail salespersons,41-2031,100290,13.24,14.0,16.46,17.94,13.75,"Jan. 1, 2027 rate",set,at or above 10th percentile,20.1
+Washington,WA,All occupations,00-0000,3550970,18.59,22.61,30.28,48.9,17.73,"Jan. 1, 2027 rate",set,below 10th percentile,<10
+Washington,WA,Home health & personal care aides,31-1120,103260,19.29,21.45,22.95,23.38,17.73,"Jan. 1, 2027 rate",set,below 10th percentile,<10
+Washington,WA,Restaurant cooks,35-2014,35140,18.24,20.56,22.5,23.82,17.73,"Jan. 1, 2027 rate",set,below 10th percentile,<10
+Washington,WA,Food preparation workers,35-2021,19510,16.78,17.25,19.67,22.79,17.73,"Jan. 1, 2027 rate",set,at or above 25th percentile,30.0
+Washington,WA,Fast food & counter workers,35-3023,94710,16.85,17.25,18.13,21.27,17.73,"Jan. 1, 2027 rate",set,at or above 25th percentile,38.6
+Washington,WA,Waiters & waitresses,35-3031,45400,17.65,22.07,26.98,35.5,17.73,"Jan. 1, 2027 rate",set,at or above 10th percentile,10.3
+Washington,WA,Dishwashers,35-9021,12630,17.1,17.47,19.27,21.64,17.73,"Jan. 1, 2027 rate",set,at or above 25th percentile,28.6
+Washington,WA,Restaurant hosts,35-9031,9530,16.66,17.17,17.92,21.65,17.73,"Jan. 1, 2027 rate",set,at or above 25th percentile,43.7
+Washington,WA,Janitors & cleaners,37-2011,47380,17.82,18.76,21.89,25.93,17.73,"Jan. 1, 2027 rate",set,below 10th percentile,<10
+Washington,WA,Maids & housekeeping cleaners,37-2012,18480,17.35,18.12,20.28,21.99,17.73,"Jan. 1, 2027 rate",set,at or above 10th percentile,17.4
+Washington,WA,Landscaping workers,37-3011,22550,18.03,20.68,22.57,27.12,17.73,"Jan. 1, 2027 rate",set,below 10th percentile,<10
+Washington,WA,Hairdressers & cosmetologists,39-5012,6930,17.71,22.25,28.61,35.36,17.73,"Jan. 1, 2027 rate",set,at or above 10th percentile,10.1
+Washington,WA,Childcare workers,39-9011,4340,16.99,18.01,20.04,21.52,17.73,"Jan. 1, 2027 rate",set,at or above 10th percentile,20.9
+Washington,WA,Cashiers,41-2011,61050,17.1,17.54,18.62,22.24,17.73,"Jan. 1, 2027 rate",set,at or above 25th percentile,29.4
+Washington,WA,Retail salespersons,41-2031,84850,17.24,17.85,19.02,21.72,17.73,"Jan. 1, 2027 rate",set,at or above 10th percentile,22.0

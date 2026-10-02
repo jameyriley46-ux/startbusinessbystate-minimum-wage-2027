@@ -1,0 +1,16 @@
+state,abbr,minimum_wage_before,minimum_wage_after,effective_date,rate_status,raise_per_hour,raise_pct,extra_wages_per_full_time_worker_per_year,extra_wages_10_full_time_workers,extra_cost_10_workers_with_employer_fica,restaurant_locations_2023,restaurant_locations_under_20_employees
+Alaska,AK,14.00,15.00,2027-07-01,set,1.0,7.14,2080,20800,22391,,
+Arizona,AZ,15.15,15.65,2027-01-01,expected,0.5,3.3,1040,10400,11196,13666,8513
+California,CA,16.90,17.40,2027-01-01,set,0.5,2.96,1040,10400,11196,88778,62821
+Colorado,CO,15.16,15.71,2027-01-01,set,0.55,3.63,1144,11440,12315,13677,9084
+Connecticut,CT,16.94,17.48,2027-01-01,set,0.54,3.19,1123,11232,12091,8612,6489
+Florida,FL,14.00,15.00,2026-09-30,already in effect,1.0,7.14,2080,20800,22391,,
+Maine,ME,15.10,15.70,2027-01-01,set,0.6,3.97,1248,12480,13435,3424,2678
+Michigan,MI,13.73,15.00,2027-01-01,set,1.27,9.25,2642,26416,28437,19760,13574
+Minnesota,MN,11.41,11.87,2027-01-01,set,0.46,4.03,957,9568,10300,10937,7301
+Nebraska,NE,15.00,15.26,2027-01-01,set,0.26,1.73,541,5408,5822,4371,3007
+New Jersey,NJ,15.92,16.48,2027-01-01,set,0.56,3.52,1165,11648,12539,21457,16981
+Ohio,OH,11.00,11.40,2027-01-01,set,0.4,3.64,832,8320,8956,24162,15663
+Rhode Island,RI,16.00,17.00,2027-01-01,set,1.0,6.25,2080,20800,22391,3046,2225
+Virginia,VA,12.77,13.75,2027-01-01,set,0.98,7.67,2038,20384,21943,17551,11698
+Washington,WA,17.13,17.73,2027-01-01,set,0.6,3.5,1248,12480,13435,17386,13020
