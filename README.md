@@ -201,4 +201,4 @@ Underlying public domain data from U.S. government agencies stays public domain.
 
 ## Contact
 
-StartBusinessByState (startbusinessbystate.com) (https://startbusinessbystate.com/)
+StartBusinessByState (https://startbusinessbystate.com/)
